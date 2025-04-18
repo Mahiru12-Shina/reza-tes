@@ -2,10 +2,12 @@ rencana konten
 
 -js
 *Es6
- -framework
- *apain js
-
+=======
+-framework
+  *react
+  *vue
+  main
 -php
-*OOP
+ *laravel
 
 -laravel
